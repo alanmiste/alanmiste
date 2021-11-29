@@ -23,7 +23,7 @@
 - :pencil: You can visit my blog : [My Blog](https://alanmiste.wordpress.com "Alan's Blog") .
 - 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "My E-mail") : [My Twitter](https://twitter.com/AlanMiste "My twitter account") ;
 
-
+---
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alanmiste.visitor-badge&left_text=You%20are%20the%20visitor%20number)
 
