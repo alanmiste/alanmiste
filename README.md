@@ -1,9 +1,8 @@
-### Hi there 👋
+
+### Hello world! 👋
 
 <!--
-**alanmiste/alanmiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- :heart: React, JavaScript, HTML, CSS, SCSS, Python.
+- 💻 Wordpress, Blogger.
+- :computer: Photoshop, Illustrator.
+- 🌱 I am currently working on improving my grasp over frontend web dev.
+- :pencil: You can visit my blog : (https://alanmiste.wordpress.com).
+- 📫 Where to (reach me) ? (alanhsnn@gmail.com) : (https://twitter.com/AlanMiste) ;
+
+
+
+(![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alanmiste.visitor-badge&left_text=You%20are%20the%20visitor%20number))
+
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmiste&count_private=true&theme=highcontrast&show_icons=true)
+
+
+
