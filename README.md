@@ -19,7 +19,7 @@
 - 💻 Wordpress, Blogger.
 - :computer: Photoshop, Illustrator.
 - 🌱 I am currently working on improving my grasp over frontend web dev.
-- :pencil: You can visit my blog : [My Blog](https://alanmiste.wordpress.com{:target="_blank"}).
+- :pencil: You can visit my blog : [My Blog](https://alanmiste.wordpress.com):target="_blank".
 - 📫 Where to (reach me) ? (alanhsnn@gmail.com) : (https://twitter.com/AlanMiste) ;
 
 
