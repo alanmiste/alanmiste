@@ -20,7 +20,7 @@
 - :computer: Photoshop, Illustrator.
 - 🔭 I am currently working on improving my grasp over Front-End web dev.
 - 🌱 I'm currently learning the Back-End dev.
-- :pencil: You can visit : [My Blog](https://alanmiste.wordpress.com "Alan's Blog") or (My Portfolio)(https://alanmiste.github.io/) .
+- :pencil: You can visit : [My Blog](https://alanmiste.wordpress.com "Alan's Blog") or [My Portfolio](https://alanmiste.github.io/ "Alan's Portfolio") .
 - 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "My E-mail") : [My Twitter](https://twitter.com/AlanMiste "My twitter account") ;
 
 ---
