@@ -31,4 +31,4 @@
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMiste&count_private=true&show_icons=true&theme=algolia)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanMiste&theme=algolia)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanMiste&theme=algolia)](https://git.io/streak-stats)
