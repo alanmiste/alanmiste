@@ -27,9 +27,9 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alanmiste.visitor-badge&left_text=You%20are%20the%20visitor%20number)
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmiste&count_private=true&theme=highcontrast&show_icons=true)
+<!-- ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmiste&count_private=true&theme=highcontrast&show_icons=true) -->
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMiste&count_private=true&show_icons=true&theme=algolia)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanMiste&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanMiste&theme=algolia)]([Alan Mistê](https://github.com/alanmiste))
 
