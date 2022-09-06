@@ -29,8 +29,20 @@
 
 <!-- ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmiste&count_private=true&theme=highcontrast&show_icons=true) -->
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMiste&count_private=true&show_icons=true&theme=algolia)
+<a href="#">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanMiste&count_private=true&show_icons=true&theme=algolia" />
+</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanMiste&theme=algolia)](https://git.io/streak-stats)
+<a href="#">
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlanMiste&theme=algolia" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmiste&layout=compact&theme=algolia)](https://github.com/alanmiste/github-readme-stats)
+<a href="#">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmiste&layout=compact&theme=algolia" />
+</a>
+
+<!-- ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMiste&count_private=true&show_icons=true&theme=algolia) -->
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanMiste&theme=algolia)](https://git.io/streak-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmiste&layout=compact&theme=algolia)](https://github.com/alanmiste/github-readme-stats) -->
