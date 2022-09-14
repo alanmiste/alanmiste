@@ -25,7 +25,7 @@
 
 ---
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alanmiste.visitor-badge&left_text=You%20are%20the%20visitor%20number) . [![Twitter: alanmiste](https://img.shields.io/twitter/follow/AlanMiste?style=social)](https://twitter.com/AlanMiste) . [![Linkedin: AlanHassan](https://img.shields.io/badge/-AlanHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanhsnn/)](https://www.linkedin.com/in/alanhassan/) . [![GitHub AlanMiste](https://img.shields.io/github/followers/AlanMiste?label=follow&style=social)](https://github.com/AlanMiste)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alanmiste.visitor-badge&left_text=You%20are%20the%20visitor%20number) .  [![Linkedin: AlanHassan](https://img.shields.io/badge/-AlanHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanhsnn/)](https://www.linkedin.com/in/alanhassan/) . [![GitHub AlanMiste](https://img.shields.io/github/followers/AlanMiste?label=follow&style=social)](https://github.com/AlanMiste) . [![Twitter: alanmiste](https://img.shields.io/twitter/follow/AlanMiste?style=social)](https://twitter.com/AlanMiste) .  [![Facebook Badge](https://img.shields.io/badge/-AlanMiste-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/AlanMiste)](https://www.facebook.com/AlanMiste) . [![Instagram Badge](https://img.shields.io/badge/-AlanMiste-gray?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/AlanMiste/)](https://instagram.com/AlanMiste)
 
 <!-- ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmiste&count_private=true&theme=highcontrast&show_icons=true) -->
 
