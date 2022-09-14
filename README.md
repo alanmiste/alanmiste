@@ -25,7 +25,7 @@
 
 ---
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alanmiste.visitor-badge&left_text=You%20are%20the%20visitor%20number)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alanmiste.visitor-badge&left_text=You%20are%20the%20visitor%20number) . [![Twitter: alanmiste](https://img.shields.io/twitter/follow/AlanMiste?style=social)](https://twitter.com/AlanMiste) . [![Linkedin: AlanHassan](https://img.shields.io/badge/-AlanHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanhsnn/)](https://www.linkedin.com/in/alanhassan/) . [![GitHub AlanMiste](https://img.shields.io/github/followers/AlanMiste?label=follow&style=social)](https://github.com/AlanMiste)
 
 <!-- ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmiste&count_private=true&theme=highcontrast&show_icons=true) -->
 
