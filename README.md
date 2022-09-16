@@ -4,7 +4,7 @@
 
 <p align="center" style="width:600px">
   <a href="https://alanmiste.github.io" target="_blank">
-    <img width="300" height="300" src="https://raw.githubusercontent.com/alanmiste/alanmiste/main/Alan%20Miste%20Logo.png" alt="AlanMiste Logo"/>
+    <img width="250" height="250" src="https://raw.githubusercontent.com/alanmiste/alanmiste/main/Alan%20Miste%20Logo.png" alt="AlanMiste Logo"/>
   </a>
 </p>
 
