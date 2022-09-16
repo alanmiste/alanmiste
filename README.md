@@ -1,25 +1,18 @@
 ### Hello world! 👋
 
 # I am Alan :)
-<!--
 
+<p align="center" style="width:600px">
+  <a href="https://alanmiste.github.io" target="_blank">
+    <img width="300" height="300" src="https://raw.githubusercontent.com/alanmiste/alanmiste/main/Alan%20Miste%20Logo.png" alt="AlanMiste Logo"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I'm currently learning the Back-End dev ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- :heart: React, JavaScript, HTML, CSS, SCSS, Python.
+- ⚡ Junior Java-Software / MERN-Stack / Full-Stack Web Developer. 
+- :heart: Java, Spring, React, TypeScript, JavaScript, HTML, CSS, SCSS, Python.
 - 💻 Wordpress, Blogger.
 - :computer: Photoshop, Illustrator.
-- 🔭 I am currently working on improving my grasp over Front-End web dev.
-- 🌱 I'm currently learning the Back-End dev.
+- 🔭 I am currently working on improving my grasp over Full-Stack-dev.
 - :pencil: You can visit : [My Blog](https://alanmiste.wordpress.com "Alan's Blog") or [My Portfolio](https://alanmiste.github.io/ "Alan's Portfolio") .
 - 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "My E-mail") : [My Twitter](https://twitter.com/AlanMiste "My twitter account") ;
 
