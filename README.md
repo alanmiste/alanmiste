@@ -14,8 +14,8 @@
 - 💻 Wordpress, Blogger.
 - :computer: Photoshop, Illustrator.
 - 🔭 I am currently working on improving my grasp over Full-Stack-dev.
-- :pencil: You can visit : [My Blog](https://alanmiste.wordpress.com "Alan's Blog") or [My Portfolio](https://alanmiste.github.io/ "Alan's Portfolio") .
-- 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "My E-mail") : [My Twitter](https://twitter.com/AlanMiste "My twitter account") ;
+- :pencil: You can visit : [My Portfolio](https://alanmiste.github.io/ "Alan's Portfolio") or [My Blog](https://alanmiste.wordpress.com "Alan's Blog") .
+- 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "alanhsnn@gmail.com") : [My LinkedIn](https://www.linkedin.com/in/alanhassan "Alan's LinkedIn account: @alanhassan") ;
 
 ---
 
