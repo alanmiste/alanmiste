@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-# I am Alan :)
+<a href="https://github.com/alanmiste"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1D86F7&random=false&width=435&lines=I+am+Alan%2C+Welcome+to+my+Profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 <p align="center" style="width:600px">
   <a href="https://alanmiste.github.io" target="_blank">
