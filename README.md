@@ -1,5 +1,6 @@
 ### Hello world! 👋
 
+<a href="https://github.com/alanmiste"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1D86F7&random=false&width=550&lines=Ich+bin+Alan%2C+Willkommen+auf+meinem+Profil+%F0%9F%98%8A" alt="Typing SVG" /></a>
 <a href="https://github.com/alanmiste"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1D86F7&random=false&width=435&lines=I+am+Alan%2C+Welcome+to+my+Profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 <p align="center" style="width:600px">
@@ -19,9 +20,7 @@
 
 ---
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alanmiste.visitor-badge&left_text=You%20are%20the%20visitor%20number) .  [![Linkedin: AlanHassan](https://img.shields.io/badge/-AlanHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanhsnn/)](https://www.linkedin.com/in/alanhassan/) . [![GitHub AlanMiste](https://img.shields.io/github/followers/AlanMiste?label=follow&style=social)](https://github.com/AlanMiste) . [![Twitter: alanmiste](https://img.shields.io/twitter/follow/AlanMiste?style=social)](https://twitter.com/AlanMiste) .  [![Facebook Badge](https://img.shields.io/badge/-AlanMiste-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/AlanMiste)](https://www.facebook.com/AlanMiste) . [![Instagram Badge](https://img.shields.io/badge/-AlanMiste-gray?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/AlanMiste/)](https://instagram.com/AlanMiste)
-
-<!-- ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmiste&count_private=true&theme=highcontrast&show_icons=true) -->
+[![Linkedin: AlanHassan](https://img.shields.io/badge/-AlanHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanhsnn/)](https://www.linkedin.com/in/alanhassan/) Ⅰ [![GitHub AlanMiste](https://img.shields.io/github/followers/AlanMiste?label=follow&style=social)](https://github.com/AlanMiste) Ⅰ [![Twitter: alanmiste](https://img.shields.io/twitter/follow/AlanMiste?style=social)](https://twitter.com/AlanMiste) Ⅰ  [![Facebook Badge](https://img.shields.io/badge/-AlanMiste-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/AlanMiste)](https://www.facebook.com/AlanMiste) Ⅰ [![Instagram Badge](https://img.shields.io/badge/-AlanMiste-gray?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/AlanMiste/)](https://instagram.com/AlanMiste)
 
 <a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanMiste&count_private=true&show_icons=true&theme=algolia" />
@@ -34,9 +33,3 @@
 <a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmiste&layout=compact&theme=algolia" />
 </a>
-
-<!-- ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMiste&count_private=true&show_icons=true&theme=algolia) -->
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanMiste&theme=algolia)](https://git.io/streak-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmiste&layout=compact&theme=algolia)](https://github.com/alanmiste/github-readme-stats) -->
