@@ -16,7 +16,7 @@
 - :de: 🔭 Derzeit bemühe ich mich, meine Fähigkeiten im Bereich Full-Stack-Entwicklung zu verbessern.
 - :de::pencil: Besuche mein : [Portfolio](https://alanmiste.github.io/ "Alan's Portfolio") oder meinen [Blog](https://alanmiste.wordpress.com "Alan's Blog") .
 - :gb::pencil: Visit my [Portfolio](https://alanmiste.github.io/ "Alan's Portfolio") or my [Blog](https://alanmiste.wordpress.com "Alan's Blog") .
-- 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "alanhsnn@gmail.com") : [My LinkedIn](https://www.linkedin.com/in/alanmiste "Alan's LinkedIn account: @alanhassan") ;
+- 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "alanhsnn@gmail.com") : [My LinkedIn](https://www.linkedin.com/in/alanmiste "Alan's LinkedIn account: @AlanMiste") ;
 
 ---
 
