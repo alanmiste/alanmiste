@@ -16,11 +16,11 @@
 - :de: 🔭 Derzeit bemühe ich mich, meine Fähigkeiten im Bereich Full-Stack-Entwicklung zu verbessern.
 - :de::pencil: Besuche mein : [Portfolio](https://alanmiste.github.io/ "Alan's Portfolio") oder meinen [Blog](https://alanmiste.wordpress.com "Alan's Blog") .
 - :gb::pencil: Visit my [Portfolio](https://alanmiste.github.io/ "Alan's Portfolio") or my [Blog](https://alanmiste.wordpress.com "Alan's Blog") .
-- 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "alanhsnn@gmail.com") : [My LinkedIn](https://www.linkedin.com/in/alanhassan "Alan's LinkedIn account: @alanhassan") ;
+- 📫 Where to (reach me) ? [My E-mail](mailto:alanhsnn@gmail.com "alanhsnn@gmail.com") : [My LinkedIn](https://www.linkedin.com/in/alanmiste "Alan's LinkedIn account: @alanhassan") ;
 
 ---
 
-[![Linkedin: AlanHassan](https://img.shields.io/badge/-AlanHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanhsnn/)](https://www.linkedin.com/in/alanhassan/) Ⅰ [![GitHub AlanMiste](https://img.shields.io/github/followers/AlanMiste?label=follow&style=social)](https://github.com/AlanMiste) Ⅰ [![Twitter: alanmiste](https://img.shields.io/twitter/follow/AlanMiste?style=social)](https://twitter.com/AlanMiste) Ⅰ  [![Facebook Badge](https://img.shields.io/badge/-AlanMiste-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/AlanMiste)](https://www.facebook.com/AlanMiste) Ⅰ [![Instagram Badge](https://img.shields.io/badge/-AlanMiste-gray?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/AlanMiste/)](https://instagram.com/AlanMiste)
+[![Linkedin: AlanHassan](https://img.shields.io/badge/-AlanHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanmiste)](https://www.linkedin.com/in/alanmiste) Ⅰ [![GitHub AlanMiste](https://img.shields.io/github/followers/AlanMiste?label=follow&style=social)](https://github.com/AlanMiste) Ⅰ [![Twitter: alanmiste](https://img.shields.io/twitter/follow/AlanMiste?style=social)](https://twitter.com/AlanMiste) Ⅰ  [![Facebook Badge](https://img.shields.io/badge/-AlanMiste-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/AlanMiste)](https://www.facebook.com/AlanMiste) Ⅰ [![Instagram Badge](https://img.shields.io/badge/-AlanMiste-gray?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/AlanMiste/)](https://instagram.com/AlanMiste)
 
 <a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanMiste&count_private=true&show_icons=true&theme=algolia" />
